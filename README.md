@@ -3,6 +3,14 @@
 ## Overview
 I developed a Power BI dashboard for Bank Churn Analysis, utilizing Power Query for data cleaning, transformation, and modeling, and DAX to create calculated measures and columns for in-depth insights. The dashboard features interactive visualizations, highlighting key metrics such as churn rates, customer segmentation, and retention trends, providing a dynamic and comprehensive analysis to support strategic decision-making.
 
+##* **Problem Statement :*
+## Churn Analysis:
+
+|Analyse the data and bring out few insights on the customer Churn.|
+
+It is advantageous for banks to know what leads a client towards the decision to leave the company.
+Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+
 ## 1)	Data Gathering:
 
 Data assets to pull the data related to Bank customer and associated details.
